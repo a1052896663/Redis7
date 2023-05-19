@@ -23,6 +23,9 @@ public class redisConter {
    public void addOred(){
         orederService.addOrder();
    }
+   public void sd(){
+
+   }
 
     @RequestMapping(value = "/get/{keyId}",method = RequestMethod.GET)
     public void getOred(@PathVariable Integer keyId){
