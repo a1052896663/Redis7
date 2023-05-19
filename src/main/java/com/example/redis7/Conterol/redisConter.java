@@ -24,7 +24,7 @@ public class redisConter {
         orederService.addOrder();
    }
    public void sd(){
-
+       System.out.println("wer");
    }
 
     @RequestMapping(value = "/get/{keyId}",method = RequestMethod.GET)
