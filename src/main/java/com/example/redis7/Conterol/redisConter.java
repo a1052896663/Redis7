@@ -24,6 +24,7 @@ public class redisConter {
         orederService.addOrder();
    }
    public void sd(){
+       System.out.println("提交3");
 
    }
 
