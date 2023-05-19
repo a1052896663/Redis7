@@ -27,6 +27,7 @@ public class redisConter {
 
        System.out.println("网页修改");
        System.out.println("gitee");
+       System.out.println("home");
       
        
 
