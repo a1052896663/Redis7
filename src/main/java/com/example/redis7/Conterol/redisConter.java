@@ -25,6 +25,8 @@ public class redisConter {
    }
    public void sd(){
        System.out.println("提交3");
+       System.out.println("提交3");
+       System.out.println("提交3");
        System.out.println("hot-fix");
    }
 
